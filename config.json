@@ -1,0 +1,15 @@
+{
+  "dvrStreamUrl": "https://picsum.photos/1280/720?grayscale&blur=2",
+  "chairs": [
+    {
+      "id": 1,
+      "name": "Chair 1",
+      "roi": null
+    },
+    {
+      "id": 2,
+      "name": "Chair 2",
+      "roi": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "barber-shop-monitor-fullstack",
+  "version": "1.0.0",
+  "description": "A full-stack application to monitor barber shop sessions.",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm:start-backend\" \"npm:start-frontend\"",
+    "start-backend": "node backend/server.js",
+    "start-frontend": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

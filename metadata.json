@@ -1,0 +1,5 @@
+{
+  "name": "Barber Shop Session Monitor",
+  "description": "A web dashboard to monitor haircut sessions in a barber shop. This application simulates real-time video analysis to count sessions, track their duration, and provide analytics.",
+  "requestFramePermissions": []
+}
